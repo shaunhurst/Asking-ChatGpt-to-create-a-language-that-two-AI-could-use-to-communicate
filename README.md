@@ -1,5 +1,5 @@
 # Asking-ChatGpt-to-create-a-language-that-two-AI-could-use-to-communicate
-With minimal instructions two AI create a language independent of people.
+With a fair amount of instructions ChatGpt constructs a language two AI would use to communicate.
 ChatGpt outlines a basic structure to enable a possible conversation between two AI.
 
 After multiple iterations I asked ChatGpt to simulate communication using different scenarios.
