@@ -15,7 +15,7 @@ After a bit asking ChatGpt to continue evolving language without explanation...i
 
 Asking what would be needed to create an AI driven language in reality
 
-Thsn asking if AI were in competition with humans would it create language that couldn't be understood by humanity
+Then asking if AI were in competition with humans would it create language that couldn't be understood by humanity
 
 Asking for an example of what AI might develop
 
